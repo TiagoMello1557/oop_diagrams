@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W6DdMU5Ow-p-JoydSF_3-31" value="Caracteristicas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="480" width="160" height="138" as="geometry" />
+          <mxGeometry x="160" y="480" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="W6DdMU5Ow-p-JoydSF_3-32" value="- nome : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="W6DdMU5Ow-p-JoydSF_3-31">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -93,9 +93,6 @@
         </mxCell>
         <mxCell id="W6DdMU5Ow-p-JoydSF_3-37" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="W6DdMU5Ow-p-JoydSF_3-31">
           <mxGeometry y="86" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="W6DdMU5Ow-p-JoydSF_3-34" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="W6DdMU5Ow-p-JoydSF_3-31">
-          <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="W6DdMU5Ow-p-JoydSF_3-36" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="W6DdMU5Ow-p-JoydSF_3-12" target="W6DdMU5Ow-p-JoydSF_3-31">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
